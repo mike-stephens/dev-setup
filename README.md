@@ -1,2 +1,2 @@
-# dev-setup-chromeos
-Personal development setup for Chrome OS (Google Pixelbook).
+# dev-setup
+Personal development setup. Based on thoughtbot's dotfiles example.
