@@ -32,3 +32,8 @@ Will likely need to install this first:
 $ sudo apt install gnupg
 ```
     
+### 3. Bash Git Prompt
+
+An excellent visual aid for git directories.
+
+Install: https://github.com/magicmonty/bash-git-prompt
