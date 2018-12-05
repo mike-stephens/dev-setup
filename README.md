@@ -20,7 +20,19 @@ $ git clone THIS_REPO
 
 ```
 
-### 2. Visual Studio Code
+### 2. Python 
+
+```
+$ sudo apt install python3
+```
+
+#### flake8
+
+```
+$ sudo apt install flake8
+```
+
+### 3. Visual Studio Code
 
 Heard some good things about it so let's give it a shot!
 
@@ -32,7 +44,11 @@ Will likely need to install this first:
 $ sudo apt install gnupg
 ```
     
-### 3. Bash Git Prompt
+#### VS Code Extensions
+
+* Python (ms-python.python)
+
+### 4. Bash Git Prompt
 
 An excellent visual aid for git directories.
 
