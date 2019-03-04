@@ -20,6 +20,12 @@ $ git clone THIS_REPO
 
 ```
 
+#### Bash Git Prompt
+
+An excellent visual aid for git directories.
+
+Install: https://github.com/magicmonty/bash-git-prompt
+
 ### 2. Python 
 
 ```
@@ -48,8 +54,19 @@ $ sudo apt install gnupg
 
 * Python (ms-python.python)
 
-### 4. Bash Git Prompt
 
-An excellent visual aid for git directories.
+### 4. Apache
 
-Install: https://github.com/magicmonty/bash-git-prompt
+```
+$ sudo apt install apache2
+```
+
+```
+$ sudo systemctl stop apache2
+$ sudo systemctl start apache2
+$ sudo systemctl status apache2
+```
+
+```
+hostname -I
+```
